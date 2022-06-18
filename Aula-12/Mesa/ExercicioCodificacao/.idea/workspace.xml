@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="40c04d56-ed57-46bf-ad38-746f30757f32" name="Changes" comment="Envio de arquivos das Aulas 10-12 de POO">
+      <change afterPath="$PROJECT_DIR$/../../../Checkpoint-I/DHTurismo/src/com/dhturismo/models/IlhaParadisiaca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Checkpoint-I/DHTurismo/src/com/dhturismo/models/Pacote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Checkpoint-I/DHTurismo/src/com/dhturismo/models/Praia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Checkpoint-I/DHTurismo/src/com/dhturismo/models/TrilhaHistorica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Checkpoint-I/checkpoint-i/src/com/digitalhouse/checkpoint/models/Desenvolvedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Checkpoint-I/checkpoint-i/src/com/digitalhouse/checkpoint/models/DevJunior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Checkpoint-I/checkpoint-i/src/com/digitalhouse/checkpoint/models/DevPleno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Checkpoint-I/checkpoint-i/src/com/digitalhouse/checkpoint/models/DevSenior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Checkpoint-I/checkpoint-i/src/com/digitalhouse/checkpoint/models/Projeto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AMdkmwX2AZ0AUwZD3l3bLNze9l" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Matheus/OneDrive/Repositorios/CTD/DH-CTD/Programacao_Orientada_a_Objetos/Aula-12/Exercicio/ExercicioGuiado",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.digitalhouse.codificacao.Main" />
+      <module name="ExercicioCodificacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.digitalhouse.codificacao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40c04d56-ed57-46bf-ad38-746f30757f32" name="Changes" comment="" />
+      <created>1654823536037</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654823536037</updated>
+      <workItem from="1654823537305" duration="2074000" />
+      <workItem from="1654904593883" duration="26000" />
+      <workItem from="1655046526278" duration="412000" />
+    </task>
+    <task id="LOCAL-00001" summary="Envio de arquivos das Aulas 10-12 de POO">
+      <created>1654824996211</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654824996211</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Envio de arquivos das Aulas 10-12 de POO" />
+    <option name="LAST_COMMIT_MESSAGE" value="Envio de arquivos das Aulas 10-12 de POO" />
+  </component>
+</project>
