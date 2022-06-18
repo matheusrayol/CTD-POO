@@ -5,9 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="435b4d6d-2d34-46c2-869c-da979dd94149" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../DHTurismo/src/com/dhturismo/models/IlhaParadisiaca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DHTurismo/src/com/dhturismo/models/Pacote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DHTurismo/src/com/dhturismo/models/Praia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DHTurismo/src/com/dhturismo/models/TrilhaHistorica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/digitalhouse/checkpoint/models/Desenvolvedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/digitalhouse/checkpoint/models/DevJunior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/digitalhouse/checkpoint/models/DevPleno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/digitalhouse/checkpoint/models/Projeto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Aula-12/Mesa/ExercicioCodificacao/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aula-12/Mesa/ExercicioCodificacao/.idea/workspace.xml" afterDir="false" />
     </list>
-    <list id="8d8f984f-8ac8-4b39-9686-ca93e687b8a7" name="Changes by Tiago" comment="" />
+    <list id="8d8f984f-8ac8-4b39-9686-ca93e687b8a7" name="Changes by Tiago" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/digitalhouse/checkpoint/models/DevSenior.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,8 +91,7 @@
       <workItem from="1654973262916" duration="4332000" />
       <workItem from="1654985203319" duration="5954000" />
       <workItem from="1655046992595" duration="5545000" />
-      <workItem from="1655058125755" duration="1986000" />
-      <workItem from="1655166679273" duration="46000" />
+      <workItem from="1655058125755" duration="1390000" />
     </task>
     <servers />
   </component>
